@@ -15,7 +15,7 @@ dependencies:
   - pyprind=2.11.*
   - pulp=1.6.*
   - openpyxl
-  - pip=19.*
+  - pip=19.**
   - pip:
       - pyyaml
       - sphinx_redactor_theme
